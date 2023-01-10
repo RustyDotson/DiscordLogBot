@@ -5,4 +5,4 @@ A server bot is required, and you must input the bot ticket at the start of the 
 
 Create your own server bot here: https://discord.com/developers/applications
 
-This program is useful if you want to save all conversations in a discord channel locally on your computer, even if you lose access to it. It is none of my business as to why you would want to use this.
+This program is useful if you want to save all conversations in a discord channel locally on your computer, even if you lose access to the server. It is none of my business as to why you would want to use this.
